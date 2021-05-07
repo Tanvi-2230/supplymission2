@@ -33,10 +33,10 @@ function setup() {
 	wall1 = createSprite(750, height-40, 300, 20);
 	wall1.shapeColor = "red";
 
-    wall2 = createSprite(900, height-130, 20, 200);
+    wall2 = createSprite(800, height-130, 20, 200);
 	wall2.shapeColor = "red";
 
-	wall3 = createSprite(600, height-130, 20, 200);
+	wall3 = createSprite(500, height-130, 20, 200);
     wall3.shapeColor = "red";
 
 
